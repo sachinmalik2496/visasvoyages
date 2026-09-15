@@ -1,15 +1,6 @@
-<svg viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
-  <defs>
-    <linearGradient id="vv-grad" x1="4" y1="2" x2="36" y2="38" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#0d9488"/>
-      <stop offset="1" stop-color="#0f2744"/>
-    </linearGradient>
-  </defs>
-  <rect width="40" height="40" rx="11" fill="url(#vv-grad)"/>
-  <path d="M7 27 C13 23 19 19 30 13" stroke="rgba(255,255,255,0.18)" stroke-width="1.5" stroke-linecap="round"/>
-  <g transform="translate(20 18.5) rotate(-28)">
-    <path d="M-12 1.5 H10 L13.5 0 L10 -1.5 H4.5 L7 -8.5 L3 -6.5 L1 -1.5 H-12 L-14.5 0 L-12 1.5 Z" fill="#ffffff"/>
-    <path d="M-12 2.5 H10 L13.5 1 L10 -0.5 H4.5 L7 -7.5 L3 -5.5 L1 -0.5 H-12 L-14.5 1 L-12 2.5 Z" fill="#ffffff" opacity="0.12"/>
-    <circle cx="11" cy="0" r="1.2" fill="#e8c84a"/>
+<svg viewBox="0 0 44 44" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+  <rect width="44" height="44" rx="12" fill="#0f2744"/>
+  <g transform="translate(22 22) rotate(-20) translate(-22 -22)">
+    <path fill="#ffffff" d="M10 28H32L35.5 26L32 24H26.5L29 16L24.5 18L22.5 24H14.5L11.5 19L8.5 24L10 28Z"/>
   </g>
 </svg>
